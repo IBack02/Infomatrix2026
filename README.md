@@ -3,4 +3,4 @@ WARNING! This repository contains only code of project, image and sound assets a
 In order to test application, please proceed to 
 https://snack.expo.dev/@aibekqwe/oqigalabirint?platform=android
 nickname : aibekqwe
-password: aibekaibek11
+password: trialpassword21
